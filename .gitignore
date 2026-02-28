@@ -1,0 +1,64 @@
+# Root-level ignores
+.env
+.env.*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.swp
+*.swo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Docker
+**/docker-data/
+**/mongo-data/
+**/target/
+**/build/
+**/dist/
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Backend (Java/Spring Boot)
+movie-booking-backend/target/
+movie-booking-backend/.classpath
+movie-booking-backend/.project
+movie-booking-backend/.settings/
+movie-booking-backend/.idea/
+movie-booking-backend/*.iml
+
+# Frontend (React)
+movie-booking-frontend/node_modules/
+movie-booking-frontend/build/
+movie-booking-frontend/.env
+movie-booking-frontend/.env.*
+
+# Logs
+logs/
+*.log
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.swo
