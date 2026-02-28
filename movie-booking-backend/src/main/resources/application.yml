@@ -1,0 +1,32 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:admin@movie-app.ukcpt9y.mongodb.net
+      database: moviebooking
+  
+  jackson:
+    default-property-inclusion: NON_NULL
+    date-format: yyyy-MM-dd'T'HH:mm:ss.SSS'Z'
+    time-zone: UTC
+
+jwt:
+  secret: fa6c66042f6370cf853844434a6a3050842bfbf2fd91620436c81ea23364d5ea
+  expiration: 86400000 # 24 hours in milliseconds
+
+logging:
+  level:
+    com.moviebooking: INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %logger{36} - %level - %msg%n"
+
+# SpringDoc OpenAPI Configuration
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /v3/api-docs
+  packages-to-scan: com.moviebooking.controller
+  paths-to-match: /api/**
