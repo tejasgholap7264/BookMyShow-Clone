@@ -47,7 +47,7 @@
 ## 🖥️ Frontend Preview
 
 - **URL:** [https://book-my-show-clone-709t5ne0t-aviral3888.vercel.app/](https://book-my-show-clone-709t5ne0t-aviral3888.vercel.app/)
-- Modern, responsive UI with full booking flow and admin management
+- Modern, responsive UI with full booking flow and admin management.
 
 ---
 
