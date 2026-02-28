@@ -16,7 +16,6 @@
 - [Tech Stack](#-tech-stack)
 - [API Documentation](#-api-documentation)
 - [Frontend Preview](#-frontend-preview)
-- [App Screenshots](#-app-screenshots)
 - [Test Credentials](#-test-credentials)
 - [Installation](#️-installation)
 - [Docker Installation](#-docker-installation)
@@ -47,30 +46,8 @@
 
 ## 🖥️ Frontend Preview
 
-- **URL:** [https://book-my-show-clone-sandy-five.vercel.app/](https://book-my-show-clone-sandy-five.vercel.app/)
+- **URL:** [https://book-my-show-clone-709t5ne0t-aviral3888.vercel.app/](https://book-my-show-clone-709t5ne0t-aviral3888.vercel.app/)
 - Modern, responsive UI with full booking flow and admin management
-
-### 📱 App Screenshots
-
-> **Note:** For admin dashboard access, login with admin credentials (admin@moviebooking.com / admin123)
-
-#### 1. Homepage - Movie Catalog
-![Homepage](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/1.png)
-
-#### 2. Movies Gridview
-![Movies Gridview](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/2.png)
-
-#### 3. User Authentication
-![User Authentication](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/3.png)
-
-#### 4. Movie Detail and Showtime 
-![Movie Detail and Showtime](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/5.png)
-
-#### 5. Seat Selection
-![Seat Selection](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/6.png)
-
-#### 6. Bookings View
-![Bookings](https://fmzqhgyfpkifsbymzdoy.supabase.co/storage/v1/object/public/portfolio/movie-booking-app-preview/7.png)
 
 ---
 
