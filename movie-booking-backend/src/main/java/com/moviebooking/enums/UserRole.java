@@ -37,5 +37,6 @@ public enum UserRole {
      * Can manage theatres, create showtimes, and view booking reports.
      */
     MANAGER
+    
 }
 
