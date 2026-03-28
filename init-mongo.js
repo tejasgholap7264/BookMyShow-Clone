@@ -166,7 +166,6 @@ movies.forEach(movie => {
         });
     });
 });
-
 const showtimeResult = db.showtimes.insertMany(showtimes);
 print(`Inserted ${showtimeResult.insertedIds.length} showtimes`);
 
