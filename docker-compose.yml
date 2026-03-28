@@ -57,4 +57,3 @@ services:
       - REACT_APP_ENABLE_ANALYTICS=false
     depends_on:
       - backend
-
