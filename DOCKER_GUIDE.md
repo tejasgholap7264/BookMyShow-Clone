@@ -294,7 +294,6 @@ For issues related to Docker setup, check:
 2. Available system resources
 3. Network connectivity
 4. Port availability
-
 ---
 
 **Note**: This Docker setup is optimized for development and testing. For production deployment, consider additional security, monitoring, and scaling configurations. 
